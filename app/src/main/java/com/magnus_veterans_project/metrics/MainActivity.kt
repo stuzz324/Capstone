@@ -40,7 +40,7 @@ import com.magnus_veterans_project.metrics.ui.theme.MetricsTheme
  * Package: com.magnus_veterans_project.metrics
  * Coders:  Shawn Gallagher
  * Date:    2/20/2026
- * Version: 0.1.0
+ * Version: 0.1.1
  */
 
 class MainActivity : ComponentActivity() {
